@@ -2,11 +2,18 @@
   "name": "Launch Code Agent Plugins",
   "description": "Core shareable plugins for Launch Code tenants",
   "plugins": [
-    {
-      "name": "jira-skill"
-    },
-    {
-      "name": "code-visualizer"
-    }
+    { "name": "jira-skill" },
+    { "name": "code-visualizer" },
+    { "name": "code-enforcer" },
+    { "name": "commit-with-context" },
+    { "name": "daily-update" },
+    { "name": "directory-mapper" },
+    { "name": "git-merge-resolver" },
+    { "name": "jira2" },
+    { "name": "obsidian-mcp-via-docker" },
+    { "name": "project-advice" },
+    { "name": "skill-documentation-guide" },
+    { "name": "slack2" },
+    { "name": "tech-presentation" }
   ]
 }
