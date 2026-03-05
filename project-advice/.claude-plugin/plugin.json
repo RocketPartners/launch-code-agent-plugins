@@ -1,0 +1,6 @@
+{
+  "name": "Project Advice",
+  "description": "Proactive advice surfacing — automatically searches and surfaces relevant team advice when you start tasks or hit problems.",
+  "version": "1.0.0",
+  "plugin_type": "skill"
+}

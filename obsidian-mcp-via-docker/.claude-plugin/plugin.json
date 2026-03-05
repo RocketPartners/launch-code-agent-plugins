@@ -1,0 +1,6 @@
+{
+  "name": "Obsidian MCP via Docker",
+  "description": "Connects Claude Code to Obsidian via Docker to allow Claude Code to read and write to Obsidian as a knowledge base",
+  "version": "1.0.0",
+  "plugin_type": "skill"
+}

@@ -1,0 +1,17 @@
+{
+  "description": "Project advice proactive surfacing hooks",
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node \"${CLAUDE_PLUGIN_ROOT}/hooks/scripts/advice_hook.js\"",
+            "timeout": 5
+          }
+        ]
+      }
+    ]
+  }
+}

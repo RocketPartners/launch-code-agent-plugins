@@ -1,0 +1,6 @@
+{
+  "name": "Code Enforcer",
+  "description": " Stop repeating yourself! Code Enforcer lets you set Claude Code preferences once and they apply everywhere automatically.\n\n  Tired of saying \"no unnecessary comments\" or \"keep it minimal\" every session? Set global rules once - they persist forever\n  across all projects. Need temporary overrides? Use session rules that auto-delete when you exit.\n\n  Quick start with templates (Minimal Mode, TypeScript Strict, Python Best Practices) or create custom rules interactively.\n  Your rules auto-load at session start - no manual setup needed.\n\n  Features:\n  • Global rules - Set once, use everywhere forever\n  • Session rules - Temporary overrides, no files in your project\n  • Pre-made templates - Start coding in 30 seconds\n  • Duplicate detection - Prevents redundant rules\n  • Auto-backup - Safe rule management\n  • Clean UX - No bash commands cluttering your terminal\n  • Auto-load hook - Rules inject automatically at session start\n\n  Run /set-rules --global once. Never repeat your preferences again.\n\n  Perfect for developers who value efficiency and want Claude to remember their coding style automatically.",
+  "version": "1.0.0",
+  "plugin_type": "skill"
+}

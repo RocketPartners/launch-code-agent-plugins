@@ -1,0 +1,6 @@
+{
+  "name": "Daily Update",
+  "description": "Auto-detect daily work (PRs, in-progress items from Obsidian) and send a formatted status update to Slack.",
+  "version": "1.0.0",
+  "plugin_type": "skill"
+}

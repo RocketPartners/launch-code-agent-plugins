@@ -1,0 +1,6 @@
+{
+  "name": "Directory Mapper",
+  "description": "Generates AI-agent-friendly directory maps by scanning and analyzing folder contents",
+  "version": "1.0.0",
+  "plugin_type": "skill"
+}

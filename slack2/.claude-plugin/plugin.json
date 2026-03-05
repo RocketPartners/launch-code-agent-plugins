@@ -1,0 +1,6 @@
+{
+  "name": "Slack v2 (LaunchCode Creds)",
+  "description": "TEST: Slack skill using LaunchCode creds.js for credential resolution. Proof-of-concept for LaunchCode skills with abstracted credentials.",
+  "version": "1.0.0",
+  "plugin_type": "skill"
+}

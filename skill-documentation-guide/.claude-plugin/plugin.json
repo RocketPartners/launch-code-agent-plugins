@@ -1,0 +1,6 @@
+{
+  "name": "Skill Documentation Guide",
+  "description": "Proven patterns for creating well-organized, multi-file skill documentation. Transform bloated single files into maintainable multi-file plugins using progressive disclosure, scenario-based navigation, and content generalization. Based on 81% reduction success story (1,260 → 232 lines).",
+  "version": "1.0.0",
+  "plugin_type": "skill"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "git-merge-resolver",
+  "description": "Resolve Git merge conflicts while preserving a feature branch's architecture. Use this skill whenever the user asks to merge main/master into a feature branch, resolve merge conflicts, rebase with conflict resolution, or reconcile divergent branches. Also trigger when the user mentions \"merge conflicts\", \"resolve conflicts\", \"merge main into my branch\", \"rebase onto main\", \"branch is behind main\", \"conflicting changes\", or any scenario where two branches have diverged and need to be reconciled with one branch's patterns taking precedence. Works with any language, framework, or build system.",
+  "version": "1.0.0",
+  "plugin_type": "skill"
+}
