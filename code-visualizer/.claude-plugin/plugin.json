@@ -1,0 +1,6 @@
+{
+  "name": "Code Visualizer",
+  "description": "Turns your code into a visual diagram. Useful for the visual learners and creating flowcharts.",
+  "version": "1.0.0",
+  "plugin_type": "skill"
+}

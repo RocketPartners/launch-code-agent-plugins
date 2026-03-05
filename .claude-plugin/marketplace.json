@@ -1,0 +1,12 @@
+{
+  "name": "Launch Code Agent Plugins",
+  "description": "Core shareable plugins for Launch Code tenants",
+  "plugins": [
+    {
+      "name": "jira-skill"
+    },
+    {
+      "name": "code-visualizer"
+    }
+  ]
+}
