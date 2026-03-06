@@ -1,0 +1,6 @@
+{
+  "name": "Commit with Context",
+  "description": "AI-powered contextual git commits with smart pre-filling, repo learning, quality scoring, metrics tracking, and cross-timezone handoff support.",
+  "version": "1.0.0",
+  "plugin_type": "skill"
+}

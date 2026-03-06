@@ -1,0 +1,6 @@
+{
+  "name": "git-merge-resolver",
+  "description": "Resolve Git merge conflicts while preserving a feature branch's architecture. Use this skill whenever the user asks to merge main/master into a feature branch, resolve merge conflicts, rebase with con",
+  "version": "1.0.0",
+  "plugin_type": "skill"
+}

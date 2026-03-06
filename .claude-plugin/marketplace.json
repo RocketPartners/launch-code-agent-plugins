@@ -7,6 +7,33 @@
     },
     {
       "name": "code-visualizer"
+    },
+    {
+      "name": "skill-builder"
+    },
+    {
+      "name": "slack-skill"
+    },
+    {
+      "name": "git-merge-resolver"
+    },
+    {
+      "name": "wells-style-pr-review"
+    },
+    {
+      "name": "code-enforcer"
+    },
+    {
+      "name": "tech-presentation"
+    },
+    {
+      "name": "commit-with-context"
+    },
+    {
+      "name": "skill-documentation-guide"
+    },
+    {
+      "name": "github-actions-expert"
     }
   ]
 }

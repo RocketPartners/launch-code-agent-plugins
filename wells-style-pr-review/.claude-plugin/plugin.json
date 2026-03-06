@@ -1,0 +1,6 @@
+{
+  "name": "Wells-Style PR Review",
+  "description": "Comprehensive PR reviews using Wells' style (technically his prompts for Claude) - direct, organized by severity, with specific file:line references.",
+  "version": "1.0.0",
+  "plugin_type": "skill"
+}

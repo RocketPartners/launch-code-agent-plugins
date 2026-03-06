@@ -1,0 +1,6 @@
+{
+  "name": "Technical Presentation Builder",
+  "description": "Creates professional HTML presentations using Reveal.js for technical topics, optimized for big screen display. Specializes in Java, Spring Boot, testing, Docker, and cloud technologies with real-worl",
+  "version": "1.0.0",
+  "plugin_type": "skill"
+}

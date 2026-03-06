@@ -1,0 +1,6 @@
+{
+  "name": "Code Enforcer",
+  "description": " Stop repeating yourself! Code Enforcer lets you set Claude Code preferences once and they apply everywhere automatically.",
+  "version": "1.0.0",
+  "plugin_type": "skill"
+}

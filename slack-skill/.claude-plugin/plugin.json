@@ -1,0 +1,6 @@
+{
+  "name": "Slack",
+  "description": "Slack Integration",
+  "version": "1.0.0",
+  "plugin_type": "skill"
+}

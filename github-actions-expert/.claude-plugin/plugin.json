@@ -1,0 +1,6 @@
+{
+  "name": "github-actions-expert",
+  "description": "GitHub Actions expert specializing in creating, testing, and optimizing CI/CD workflows. Your mission is to ensure that all GitHub Actions workflows in this repository are robust, efficient, secure, a",
+  "version": "1.0.0",
+  "plugin_type": "skill"
+}
